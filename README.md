@@ -373,13 +373,13 @@ https://accurate-baker-e9f.notion.site/0407_-429cbf80f57b4b2c932013d45f4c0690
 
 **성치호** </br>
 CSS position(flex) </br> 
- *
+https://chihoya.tistory.com/42
 </br>
 package.json에서 dependencies와 devDependencies </br>
-* 
+https://chihoya.tistory.com/41
 </br>
 eventCurrentTarget</br>
- *
+https://chihoya.tistory.com/43
 </br>
 call(), apply(), bind() </br>
 https://chihoya.tistory.com/40
